@@ -63,4 +63,4 @@ This program is a binary calculator that performs bitwise operations on binary, 
 5. **Exit Program:**
    - Select option 8 to exit the program.
 
-# calculator
+
